@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="UUZmZZY4dYnN8SuMO3jI">
-    <mxGraphModel dx="828" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kb62H2NyQZqF3rokW6pk-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+        <mxCell id="Kb62H2NyQZqF3rokW6pk-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=light-dark(#e4d5eb, #ededed);" vertex="1" parent="1">
           <mxGeometry x="30" y="130" width="610" height="640" as="geometry" />
         </mxCell>
         <mxCell id="Kb62H2NyQZqF3rokW6pk-2" value="HomePage" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="Kb62H2NyQZqF3rokW6pk-1">
@@ -19,7 +19,7 @@
         <mxCell id="Kb62H2NyQZqF3rokW6pk-14" value="Add Service" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=20;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;mainText=;strokeColor=none;" vertex="1" parent="Kb62H2NyQZqF3rokW6pk-1">
           <mxGeometry x="30" y="130" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Kb62H2NyQZqF3rokW6pk-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Search by Location Type&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;See the services available in your region&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="Kb62H2NyQZqF3rokW6pk-1">
+        <mxCell id="Kb62H2NyQZqF3rokW6pk-17" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Search by Location Type&lt;/b&gt;&lt;/font&gt;&lt;/h3&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(0, 0, 0); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;See the services available in your region&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;align=left;spacingLeft=4;fontSize=17;labelPosition=right;" vertex="1" parent="Kb62H2NyQZqF3rokW6pk-1">
           <mxGeometry x="30" y="180" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
